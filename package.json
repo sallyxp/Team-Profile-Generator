@@ -1,0 +1,32 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "runs index.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "node",
+    "bootstrap",
+    "inquirer"
+  ],
+  "author": "Sally Rodgers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/github.com/Team-Profile-Generator#readme"
+}
