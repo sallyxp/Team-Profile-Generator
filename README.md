@@ -55,7 +55,7 @@ The team.html page will be generated within the dist directory and can be opened
 To run the testing scripts, type npm run test.  Jest recognises the __tests__ directory automatically.
 
 Directory locations image:
-![alt text](/Images/DirectoriesLayout.png) 
+![alt text](/Images/DirectoryLayout.png) 
 
 ## *Usage* 
 To generate a Team Page with used defined information.
