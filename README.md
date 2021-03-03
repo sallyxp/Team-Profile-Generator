@@ -12,6 +12,9 @@ As this application won't be deployed, a link is provided showing a walkthrough 
 
 This project is MIT licensed. ![GitHub license](![license](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet))(0)
 
+The output should be similar to the image below:
+![alt text](images/homework-demo.png) 
+
 ## *Table of Contents*
 - [Description](#description)
 - [Installation](#installation)
@@ -52,7 +55,7 @@ The team.html page will be generated within the dist directory and can be opened
 To run the testing scripts, type npm run test.  Jest recognises the __tests__ directory automatically.
 
 Directory locations image:
-![alt text] (images/directorieslayout.png) 
+![alt text](images/DirectoriesLayout.png) 
 
 ## *Usage* 
 To generate a Team Page with used defined information.
@@ -74,7 +77,8 @@ For any suggestions or questions, please feel free to contact me via my Github p
 Sally Rodgers
 
 ## *Screenshot*
-![alt text] (images/screenshot.png) 
+![alt text](images/TeamHogworts.png)
+![alt text](images/Prompts.png) 
 
 ## *Video*
 Link to Video Demonstration of application and the tests: https://drive.google.com/file/d/15SE6b0g1P6ffowEVr5EjDe96cqngOqSd/view?usp=sharing
