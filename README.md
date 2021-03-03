@@ -90,7 +90,7 @@ Testing questions were
 (ii) can each field allow a valid entry 
 (iii) Do the retrieval methods allow an object to be retrieved
 
-
+![Alt Text](url/Images/Testing.png)
 
 ## *Contact Me*
 - Github: **[sallyxp](github.com/sallyxp)
